@@ -50,3 +50,5 @@ def is_rgb(color):
     else:
         print('El color no es RGB')
 is_rgb("rojo")
+
+print('Estoy añadiendo algo nuevo al commit')
